@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
+.card {
+  background-color: white;
+  width: 400px;
+  border-radius: 16px;
+}
+.card figure {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 16px 16px 0 0;
+}
+.card figure img {
+  width: 100%;
+}
+.card__content {
+  padding: 40px 35px;
+}
+.card__content h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #1f2f56;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 900;
+}
+.card__content p {
+  text-align: center;
+  margin-bottom: 20px;
+  line-height: 24px;
+  color: #7280a7;
+}
+.card__content__plan {
+  background-color: #f5f7ff;
+  margin-bottom: 20px;
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 16px;
+}
+.card__content__plan img {
+  width: 48px;
+}
+.card__content__plan .plan__wrapper {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 40%;
+}
+.card__content__plan .plan__wrapper__name {
+  color: #1f2f56;
+}
+.card__content__plan .plan__wrapper__price {
+  color: #7280a7;
+}
+.card__content__plan a {
+  color: #3829e0;
+  font-weight: 700;
+}
+.card__content .cta {
+  background-color: #3829e0;
+  color: white;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+  padding: 16px 0;
+  font-weight: 900;
+  text-decoration: none;
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+.card__content .wrap-cancel {
+  display: grid;
+  place-items: center;
+}
+.card__content .wrap-cancel .cancel {
+  text-align: center;
+  color: #7280a7;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=card.css.map */
