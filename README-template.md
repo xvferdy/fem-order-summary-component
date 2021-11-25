@@ -13,21 +13,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
-
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-
+![](./screenshotweb.png)
+      
 ### What I learned
 
 - HTML
 - CSS
-
-
-
-
-
