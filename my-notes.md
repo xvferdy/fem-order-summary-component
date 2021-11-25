@@ -4,6 +4,7 @@
 ### Gampang
 - [ ] shadow
 - [ ] pading
+- [ ] readme-template
 
 ### Susah
 - [ ] img tdk ikut border card
