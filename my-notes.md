@@ -1,21 +1,15 @@
 # Notes
 
 **gampang**
-
 - [x] shadow
 - [x] pading
-- [x] readme-template
+- [ ] bold plan text
 
 **susah**
 - [ ] img tdk ikut border card
 - [ ] sticky footer
 
-- - -
+**di luar project**
+- [x] readme-template
 
-Di luar Projects
-
-**readme**
-- [ ] note
-
-**others**
-- [ ] note
+# //
