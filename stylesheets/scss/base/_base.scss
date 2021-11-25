@@ -18,6 +18,15 @@ body {
 	background-image: url("../../../images/pattern-background-desktop.svg");
 	background-repeat: no-repeat;
 	background-size: contain;
+
+	@include display(mobile) {
+		background-image: url("../../../images/pattern-background-mobile.svg");
+		padding: 0 16px;
+	}
+}
+
+p {
+	font-size: 16px;
 }
 
 .container {

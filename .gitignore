@@ -18,8 +18,5 @@
 # dependencies
 node_modules/
 
-# design
-design/
-
 # production
 build/

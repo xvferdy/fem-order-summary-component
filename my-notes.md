@@ -2,18 +2,18 @@
 
 ## Projects
 ### Gampang
-- [ ] problem1
-- [ ] problem2
+- [ ] shadow
+- [ ] pading
 
 ### Susah
-- [ ] problem1
-- [ ] problem2
+- [ ] img tdk ikut border card
+- [ ] sticky footer
 
 - - -
 
 ## Di luar Projects
 ### Readme
-- note
+- [ ] note
 
 ### Others
-- note
+- [ ] note
