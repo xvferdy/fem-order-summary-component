@@ -45,7 +45,7 @@ Users should be able to:
 - Sass
 
 ### What I learned 🥳
-I Learnt how to center a `<button>` so the trick is you wrap the button with 'element wrapper' like `<div>` next in the wrapper element we can use `grid` to center it. 
+I Learnt how to center a `<button>`, so the trick is you wrap the button with 'element wrapper' like `<div>` next in the wrapper element we can use `grid` to center it. So Easy I love it!
 ###### stylesheets/scss/components/\_card.scss
 ```scss
   .wrap-cancel {
