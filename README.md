@@ -74,8 +74,8 @@ I Learnt how to center a `<button>` so the trick is you wrap the button with 'el
 | [<samp>Frontend Mentor<samp>](https://www.frontendmentor.io/profile/xvferdy) | 
 
 ## Acknowledgments
-- [Online Tutorials Youtube](https://www.youtube.com/watch?v=HzJngc-Se9Q "Online Tutorials Youtube")
+- [Copy paste Tailwind's `box-shadow`](https://tailwindcss.com/ "Tailwind")
 
 <h3 align="right">
-      <a href="#base-apparel-coming-soon-page">To Top ⤴️</a>
+      <a href="#order-summary-card">To Top ⤴️</a>
 </h3>
