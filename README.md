@@ -65,7 +65,7 @@ I Learnt how to center a `<button>`, so the trick is you wrap the button with 'e
 
 ### Continued development
 - [ ] Mobile First
-- [ ] Make text for 'Annual Plan' Bold
+- [ ] Make text for 'Annual Plan' **Bold**
 
 ## Author
 | [<img src="https://avatars.githubusercontent.com/u/47988956?v=4" alt="xvferdy" width="100px"/>](https://github.com/xvferdy) </br> [🌍](https://berlianto.netlify.app/) |
